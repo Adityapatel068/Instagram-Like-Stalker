@@ -1,0 +1,12 @@
+Modules used in this script
+Built-in (no install needed)
+time
+os
+re
+json
+logging
+Third-party (install via pip)
+selenium (imports: selenium.webdriver, selenium.webdriver.common.by.By, selenium.webdriver.support.ui.WebDriverWait, selenium.webdriver.support.expected_conditions as EC, selenium.webdriver.chrome.service.Service, selenium.webdriver.common.keys.Keys, selenium.webdriver.common.action_chains.ActionChains)
+webdriver-manager (import: webdriver_manager.chrome.ChromeDriverManager)
+selenium==4.23.1
+webdriver-manager==4.0.2
